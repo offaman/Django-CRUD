@@ -1,0 +1,6 @@
+__pycache__
+migration
+./CRUD/__pycache__
+./CRUD/migration
+./StudentApi/__pycache__
+./StudentApi/migration
